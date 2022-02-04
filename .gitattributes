@@ -1,0 +1,4 @@
+*.xlsx diff=xlsx
+*.md diff=markdown
+*.mmd diff=markdown
+*.mds diff=markdown

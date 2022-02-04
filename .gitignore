@@ -1,0 +1,45 @@
+auto/
+distrib/
+tools/
+.*/
+
+build_profile.csv
+unused_sources.txt
+deptree.db
+*.backup
+
+# python compiled modules
+*.pyc
+
+# HTML and PDF are assumed to be the result of a build
+*.html
+*.pdf
+
+# VIM swap/backup
+*~
+*.bak
+*.bak?
+.*.sw?
+_.sw?
+.sw?
+.sw?.part
+
+# Sublime setup
+#*.sublime*
+
+.svn/
+
+# Word swap
+~*
+
+# Misc windows
+*.lnk
+
+#emacs pollution
+*.*~
+
+#chrome pollution
+debug.log
+
+#Milestone
+frozen/
